@@ -5,4 +5,9 @@ Simple Tools for Decrypt WordPress Hash using Dictionary Attack
 php wpdecrypt.php
 
 # more info
-http://www.indoxploit.or.id/2017/03/wordpress-hash-decrypter-tools.html
+https://exploit.linuxsec.org/cracking-wordpress-password-using-brute-force/
+
+## Disclaimer
+
+**Using this tool for attacking targets without prior mutual consent is illegal. It is the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program**
+
